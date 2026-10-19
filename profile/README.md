@@ -16,7 +16,9 @@ We write buying guides that explain the specs that actually matter, compare prod
 the limits as well as the strengths, so readers can buy once and buy right. Every guide answers a question people
 really search for, shows when it was last reviewed, and links to its sources.
 
-### Latest guides · Holiday Lighting
+### Read our latest guides
+
+**Holiday Lighting**
 
 | Guide | What it answers |
 |---|---|
@@ -28,15 +30,26 @@ really search for, shows when it was last reviewed, and links to its sources.
 | [How to Sync Christmas Lights to Music](https://noahreviews.github.io/christmas-lights-to-music/) | Mic sync, app sync and full sequencing compared |
 | [Nativity Christmas Lights: Christian Display Ideas](https://noahreviews.github.io/nativity-christmas-lights/) | Nativity scenes, the Star of Bethlehem and faith messages |
 
+### Our top pick for windows & balconies
+
+**Lumalyn Smart Animated Balcony Lights**: a 400-LED pixel curtain (2 × 2 m or 3 × 3 m) that shows animated pictures and
+messages, with app and remote control, music sync, timers and IP44 splash resistance for covered outdoor spots.
+
+👉 **[See it at lumalyn.store](https://lumalyn.store/)** · Decorating for a Christian Christmas? **[See the nativity designs](https://lumalyn.store/#christian)**
+
 ### Our standards
 
-- **Clear disclosures** – partner links are labelled at the top of every guide and marked `rel="sponsored"`.
+- **Clear disclosures** – partner links are labelled at the top of every guide.
 - **Sourced advice** – safety and technical claims link to sources such as the NFPA and the IEC rating system.
-- **Kept up to date** – every guide shows its last review date; corrections are welcome via [issues](https://github.com/noahreviews/noahreviews.github.io/issues).
+- **Kept up to date** – every guide shows its last review date; spotted a mistake? [Tell us](https://noahreviews.github.io/contact/) and we will fix it.
 
 ### Disclosure
 
 Noah Reviews is reader-supported and affiliated with [Lumalyn](https://lumalyn.store/). We may earn from purchases made
 through partner links, at no extra cost to readers.
 
-<sub>Website source: [noahreviews/noahreviews.github.io](https://github.com/noahreviews/noahreviews.github.io)</sub>
+<div align="center">
+
+**[Read all guides at noahreviews.github.io →](https://noahreviews.github.io)**
+
+</div>

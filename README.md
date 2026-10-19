@@ -1,4 +1,5 @@
-# noahreviews/.github
+# Noah Reviews
 
-Organization profile for [Noah Reviews](https://github.com/noahreviews). The page shown on the organization's GitHub
-profile lives in [`profile/README.md`](profile/README.md).
+Practical reviews and buying guides for home, holiday and everyday products.
+
+**Visit the website: [noahreviews.github.io](https://noahreviews.github.io)**
